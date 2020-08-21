@@ -15,11 +15,10 @@ Home Page:
 </br>
 </br>
 <img src="https://github.com/MohitSinghvi/Scraper-and-Searcher/blob/master/Screenshots/main-page.PNG?raw=true"></img>
-</br>
-</br>
+
 Result Page:
 </br>
-</br>
+
 <img src="https://github.com/MohitSinghvi/Scraper-and-Searcher/blob/master/Screenshots/resultPage.PNG?raw=true"></img>
 
 <p> The result page consists of all the crawled web pages for the keyword "India", along with the paragraph which contains the scrapped data from the respective webpage.</p>
