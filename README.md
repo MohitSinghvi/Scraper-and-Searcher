@@ -10,3 +10,8 @@ Steps:
 6. Run main.py present in user_interface folder.
 7. Open the link provided in the output.
 8. Start Searching!
+
+Home Page:
+</br>
+</br>
+<img src="https://github.com/MohitSinghvi/Scraper-and-Searcher/blob/master/Screenshots/main-page.PNG?raw=true"></img>
